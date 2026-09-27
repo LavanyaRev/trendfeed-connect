@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+trendfeed/__init__.py
+trendfeed/core.py
+trendfeed_connect.egg-info/PKG-INFO
+trendfeed_connect.egg-info/SOURCES.txt
+trendfeed_connect.egg-info/dependency_links.txt
+trendfeed_connect.egg-info/requires.txt
+trendfeed_connect.egg-info/top_level.txt

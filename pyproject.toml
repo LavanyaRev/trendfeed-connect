@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trendfeed-connect"
+version = "0.1.0"
+description = "An open-source event-driven connector for SerpApi Google Shopping and Trends data"
+readme = "README.md"
+authors = [
+    { name = "Lavanya Revankar" }
+]
+requires-python = ">=3.8"
+dependencies = [
+    "google-search-results>=2.4.2",
+    "requests>=2.25.0"
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/LavanyaRev/trendfeed-connect"
